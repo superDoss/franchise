@@ -92,7 +92,7 @@ export class Configure extends Component{
                         <div className="title">Crime in LA</div>
                     </div>
                     </a>
-                    <a href="/demos/crime_v8.html">
+                    <a href="/demos/sales.html">
                     <div className="sample-thumb" style={{ backgroundImage: `url(${require('../img/scatter.png')})`}}>
                         <div className="title">Sales Data</div>
                     </div>
